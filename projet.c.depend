@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586240863 source:c:\users\toshiba\desktop\projet.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
