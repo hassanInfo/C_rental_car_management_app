@@ -1,6 +1,6 @@
 # C rental car management App  
 <b>This is a C application for renatl car management.<b> 
-<h1><b>Main menu interface :</b></h1>  
+<h2><b>Main menu interface :</b></h2>  
 
 ![image](https://user-images.githubusercontent.com/85229840/199251280-5a570084-e4cd-404b-a057-73424fdc093d.png)  
 <h2><b>Car rental interface :</b></h2>    
